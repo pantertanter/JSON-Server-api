@@ -1,15 +1,9 @@
 {
   "api": [
     {
-      "id": 1,
-      "item": "Bread",
-      "quantity": 2,
-      "cost": 20
-    },
-    {
       "id": 2,
       "item": "Meat",
-      "quantity": 2,
+      "quantity": "3",
       "cost": 50
     },
     {
@@ -30,12 +24,11 @@
       "quantity": 2,
       "cost": 12
     },
-    [],
     {
       "item": "Flour",
-      "quantity": "3",
-      "cost": "5",
-      "id": 7
+      "quantity": "4",
+      "cost": "40",
+      "id": 6
     }
   ]
 }
