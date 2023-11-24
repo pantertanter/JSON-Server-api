@@ -1,0 +1,41 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "item": "Bread",
+      "quantity": 2,
+      "cost": 20
+    },
+    {
+      "id": 2,
+      "item": "Meat",
+      "quantity": 2,
+      "cost": 50
+    },
+    {
+      "id": 3,
+      "item": "Flour",
+      "quantity": 2,
+      "cost": 10
+    },
+    {
+      "id": 4,
+      "item": "Oat meal",
+      "quantity": 2,
+      "cost": 12
+    },
+    {
+      "id": 5,
+      "item": "Salat",
+      "quantity": 2,
+      "cost": 12
+    },
+    [],
+    {
+      "item": "Flour",
+      "quantity": "3",
+      "cost": "5",
+      "id": 7
+    }
+  ]
+}

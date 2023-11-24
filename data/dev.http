@@ -1,0 +1,36 @@
+GET http://localhost:3000/api
+
+###
+
+GET http://localhost:3000/api/2
+
+###
+
+POST http://localhost:3000/api
+Content-Type: application/json
+Accept: application/application/json
+
+{
+    "id": 6,
+    "item": "Crackers",
+    "quantity": 2,
+    "cost": 12
+  }
+
+###
+
+PUT http://localhost:3000/api/6
+Content-Type: application/json
+Accept: application/json
+
+{
+    "id": 6,
+    "item": "Tomato",
+    "quantity": 2,
+    "cost": 12
+}
+
+### 
+
+DELETE http://localhost:3000/api/6
+Accept: application/json
